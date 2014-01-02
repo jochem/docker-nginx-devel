@@ -1,4 +1,4 @@
-# PostgreSQL
+# nginx-devel from https://launchpad.net/~chris-lea/+archive/nginx-devel
 #
 # VERSION	1.0
 
